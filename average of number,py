@@ -1,0 +1,6 @@
+a=10
+b=29
+c=15
+d=9
+avg = (a + b + c + d) / 4
+print("The average of numbers is", avg)
