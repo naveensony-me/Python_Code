@@ -2,7 +2,7 @@ name="naveen Sony"
 print("My name is",name)
 regno="12210854"
 print("My Registration number is",regno)
-CGPA="7.86"
+CGPA="8.98"
 print("My CGPA is",CGPA)
 address="Azamgarh"
 print("I live at",address)
