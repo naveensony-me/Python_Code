@@ -27,3 +27,16 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+#          Output
+
+# Enter student name: Naveen Sony
+# Enter class: MCA
+# Enter Section: D2214
+# Enter student's grade: A
+
+# Student Name: Naveen Sony
+# Class: MCA
+# Section: D2214
+# Grade: A (Outstanding)
