@@ -1,3 +1,9 @@
+# Accept electronic unit from user and calculate the bill according to the following rates.
+# First 100 Units: Free
+# Above 300 Units: Rs 5 per Unit
+# If number of units is 500 then bill = 0+400+1000 = 1400
+
+
 
 def calculate_bill(units):
     if units <= 100:
