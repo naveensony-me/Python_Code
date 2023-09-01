@@ -39,3 +39,22 @@ if __name__ == "__main__":
     obj.grades()
     obj.display()
     obj.calculate()
+    
+                                # OUTPUT :- 
+    
+# Enter the marks of  5 subjects
+
+# 98
+# 68
+# 75
+# 83
+# 86
+# ****REPORT CARD****
+# Name:  Naveen
+# Subject  1 :  98
+# Subject  2 :  68
+# Subject  3 :  75
+# Subject  4 :  83
+# Subject  5 :  86
+# Total Marks:  410
+# 1st Division
