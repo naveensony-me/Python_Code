@@ -40,7 +40,7 @@ if __name__ == "__main__":
     obj.display()
     obj.calculate()
     
-                                # OUTPUT :- 
+                                # OUTPUT :- According User Input
     
 # Enter the marks of  5 subjects
 
