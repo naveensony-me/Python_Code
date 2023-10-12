@@ -1,0 +1,25 @@
+**********Jupyter Installation Process**************
+
+Step 1- Open CMD
+
+Step 2- pip install jupyterlab
+
+Step 3- jupyter lab
+
+Step 4- pip install notebook
+
+Step 5- jupyter notebook
+
+Step 6- After Start notebook goto New file.
+
+Step 7- Write this Command.
+
+Step 8- Pip install numpy (Click Run Button).
+
+Step 9- Pip install matplotlib (Again Click Run Button)  
+
+Step 10- Succesfully Install.
+
+
+
+
